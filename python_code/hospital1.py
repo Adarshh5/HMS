@@ -177,7 +177,7 @@ class menu:
                 choice = int(input("Enter Number: "))
 
                 if choice == 1:
-                   self.obj1.Add_pateint()
+                   self.obj1.Add_pateint(
 
                 elif choice == 2:
                     self.obj2.Second()
